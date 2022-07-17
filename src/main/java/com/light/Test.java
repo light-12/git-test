@@ -12,5 +12,6 @@ public class Test {
         System.out.println("light2");
         System.out.println("light3");
         System.out.println("jna");
+        System.out.println("pushtest");
     }
 }
