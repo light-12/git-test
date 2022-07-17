@@ -11,6 +11,6 @@ public class Test {
         System.out.println("light");
         System.out.println("light2");
         System.out.println("light3");
-        System.out.println("kvjna");
+        System.out.println("jna");
     }
 }
